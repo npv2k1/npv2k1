@@ -1,5 +1,14 @@
-Hi. I am Nguyen. I am a student and a web programmer. I love opensource and want to collaborate with people.
+<h3 align="center">Xin chào Mọi người, Mình là Nguyên!👋</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/npv2k1)
+---
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/npv2k1)
+<br />
+
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=npv2k1&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npv2k1&layout=compact&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+### Blog
