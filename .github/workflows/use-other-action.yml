@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 name: Use other action
@@ -12,5 +15,5 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Hello
-        uses: npv2k1/npv2k1/workflows/hello@master
+        uses: npv2k1/npv2k1/hello@master
 
