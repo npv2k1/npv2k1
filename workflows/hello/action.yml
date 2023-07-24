@@ -1,15 +1,4 @@
-on:
-  workflow_dispatch:
-
-name: Hello World
-
-jobs:
-  hello:
-    name: Hello
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Hello
-        run: echo "Hello World"
+name: Hello
+description: "Prints Hello World"
+author: "npv2k1"
+run: echo "Hello World"
