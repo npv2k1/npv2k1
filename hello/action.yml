@@ -1,4 +1,7 @@
 name: Hello
 description: "Prints Hello World"
 author: "npv2k1"
-run: echo "Hello World"
+runs:
+  using: "composite"
+  steps:
+    - run: echo "Hello World"
