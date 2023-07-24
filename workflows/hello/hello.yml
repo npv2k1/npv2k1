@@ -1,16 +1,15 @@
 on:
   workflow_dispatch:
 
-name: Use other action
+name: Hello World
 
 jobs:
   hello:
-    name: Use other action
+    name: Hello
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: Hello
-        uses: npv2k1/npv2k1/workflows/hello@master
-
+        run: echo "Hello World"
