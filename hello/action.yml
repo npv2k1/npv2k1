@@ -5,3 +5,4 @@ runs:
   using: "composite"
   steps:
     - run: echo "Hello World"
+      shell: bash
