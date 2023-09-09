@@ -23,8 +23,6 @@ I am also learning and applying new technologies such as:
 
 I have high responsibility and commitment to work on any project I undertake. I am flexible and able to quickly adapt to new environment and challenges.
 
-<br />
-
 ---
 
 ### 📊 GitHub Stats
