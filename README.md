@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 What I Bring to the Table
+### 🌟 
 
 I am a professional web and mobile developer with experience in various technologies and frameworks. Some of the skills I have are:
 
