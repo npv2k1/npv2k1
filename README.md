@@ -8,20 +8,20 @@
 
 ### 🌟 What I Bring to the Table
 
-As a professional developer, I come armed with a diverse set of skills and tools to bring your digital dreams to life. Here's a sneak peek into my developer toolkit:
+I am a professional web and mobile developer with experience in various technologies and frameworks. Some of the skills I have are:
 
 - 💻 Backend: Node.js, Nest.js (with a side of Python and Django)
 - 🎨 Frontend: HTML5, JavaScript, Tailwind CSS, React, Next.js
 - 📱 Mobile: React Native for crafting cross-platform magic
 - 🗄️ Databases: PostgreSQL, MySQL, SQL Server, MongoDB (because data is power)
 
-But that's not all! I'm also on a continuous quest for knowledge and innovation. Here's what's cooking in my development lab:
+I am also learning and applying new technologies such as:
 
 - 🚀 Low-Level Love: Exploring Go and Rust for that extra dose of performance
 - 🌐 Decentralized Dreams: Dabbling in Blockchain, Ethereum, Substrate, Near, and Solana for a decentralized future
 - ☁️ Cloud Wizardry: Taming Azure, AWS, and Google Cloud for scalable and reliable deployments
 
-I don't just write code; I craft digital experiences. I bring commitment, adaptability, and a strong sense of responsibility to every project I undertake. Let's build something amazing together! 🌟
+I have high responsibility and commitment to work on any project I undertake. I am flexible and able to quickly adapt to new environment and challenges.
 
 <br />
 
