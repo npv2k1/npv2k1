@@ -6,8 +6,6 @@
 
 ---
 
-### 🌟 
-
 I am a professional web and mobile developer with experience in various technologies and frameworks. Some of the skills I have are:
 
 - 💻 Backend: Node.js, Nest.js, Django
